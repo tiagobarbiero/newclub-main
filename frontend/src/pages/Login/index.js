@@ -22,8 +22,8 @@ const Copyright = () => {
 		<Typography variant="body2" color="primary" align="center">
 			{"Copyright "}
  			<Link color="primary" href="#">
- 				PLW
- 			</Link>{" "}
+ 				Central Tech
+ 			</Link>{"centraltech.me"}
  			{new Date().getFullYear()}
  			{"."}
  		</Typography>
